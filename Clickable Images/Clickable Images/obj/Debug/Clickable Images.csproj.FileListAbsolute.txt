@@ -1,0 +1,9 @@
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.exe.config
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\bin\Debug\Clickable Images.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable_Images.frmClickableImages.resources
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable_Images.Properties.Resources.resources
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.csproj.GenerateResource.Cache
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Clickable Images\Clickable Images\obj\Debug\Clickable Images.pdb
